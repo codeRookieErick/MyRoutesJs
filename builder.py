@@ -1,1 +1,3 @@
-#this is a comment
+import time
+from os import listdir
+print(listdir('.'))
